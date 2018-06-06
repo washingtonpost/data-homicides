@@ -44,18 +44,18 @@ Areas shaded in blue are where two-thirds or more of the homicides resulted in a
 
 Maps may also include zones with high concentrations of killings, outlined in orange or blue. Unsolved zones, outlined in orange, had more than eight killings and an arrest rate of less than 30 percent. Zones outlined in blue had more than eight killings and an arrest rate of greater than 70 percent.
 
-To provide information about homicides in your area, send us an email at unsolved@washpost.com. To explore the data further, download it from Github.
+To provide information about homicides in your area, send us an email at unsolved@washpost.com. To explore the data further, [download it from GitHub](https://raw.githubusercontent.com/washingtonpost/data-homicides/master/homicide-data.csv).
 
 ## Links
 
-Read the story: https://www.washingtonpost.com/graphics/2018/investigations/where-murders-go-unsolved/
+Read the story: https://www.washingtonpost.com/graphics/2018/investigations/where-murders-go-unsolved/  
 See the maps: https://www.washingtonpost.com/graphics/2018/investigations/unsolved-homicide-database/
 
 ## Credits
 
-Research and Reporting: [Steven Rich](https://www.washingtonpost.com/people/steven-rich/), [Ted Mellnik](https://www.washingtonpost.com/people/ted-mellnik/), [Kimbriell Kelly](https://www.washingtonpost.com/people/kimbriell-kelly/) and [Wesley Lowery](https://www.washingtonpost.com/people/wesley-lowery/)
-Design and Development: [Leslie Shapiro](https://www.washingtonpost.com/people/leslie-shapiro/)
-Graphics: [Lauren Tierney](https://www.washingtonpost.com/people/lauren-tierney) and [Leslie Shapiro](https://www.washingtonpost.com/people/leslie-shapiro/)
-Editing: [David Fallis](https://www.washingtonpost.com/people/david-s-fallis/) and [Kaeti Hinck](https://www.washingtonpost.com/people/kaeti-hinck/)
-Production: [Julie Vitkovskaya](https://www.washingtonpost.com/people/julie-vitkovskaya/)
+Research and Reporting: [Steven Rich](https://www.washingtonpost.com/people/steven-rich/), [Ted Mellnik](https://www.washingtonpost.com/people/ted-mellnik/), [Kimbriell Kelly](https://www.washingtonpost.com/people/kimbriell-kelly/) and [Wesley Lowery](https://www.washingtonpost.com/people/wesley-lowery/)  
+Design and Development: [Leslie Shapiro](https://www.washingtonpost.com/people/leslie-shapiro/)  
+Graphics: [Lauren Tierney](https://www.washingtonpost.com/people/lauren-tierney) and [Leslie Shapiro](https://www.washingtonpost.com/people/leslie-shapiro/)  
+Editing: [David Fallis](https://www.washingtonpost.com/people/david-s-fallis/) and [Kaeti Hinck](https://www.washingtonpost.com/people/kaeti-hinck/)  
+Production: [Julie Vitkovskaya](https://www.washingtonpost.com/people/julie-vitkovskaya/)  
 Additional reporting: Julie Tate, Jennifer Jenkins, Kristian Hernandez, Matt Bernardini, Mitra Malek and Samuel Northrop.
