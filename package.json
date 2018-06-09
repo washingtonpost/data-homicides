@@ -1,0 +1,25 @@
+{
+  "name": "data-homicides",
+  "version": "1.0.0",
+  "description": "The Washington Post collected data on more than 52,000 criminal homicides over the past decade in 50 of the largest American cities.",
+  "scripts": {
+    "csv-to-json": "csvtojson homicide-data.csv > homicide-data.json && json-pretty-print homicide-data.json homicide-data.json",
+    "json-to-yml": "json2yaml homicide-data.json > homicide-data.yml",
+    "build": "npm run -s csv-to-json && npm run -s json-to-yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staywoke/data-homicides.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/staywoke/data-homicides/issues"
+  },
+  "homepage": "https://github.com/staywoke/data-homicides#readme",
+  "devDependencies": {
+    "csvtojson": "^2.0.3",
+    "json-pretty-print": "0.0.4",
+    "json2yaml": "^1.1.0"
+  }
+}
